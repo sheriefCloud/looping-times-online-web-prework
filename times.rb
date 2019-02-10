@@ -5,7 +5,3 @@ def using_times
         counter = counter - 1
 	      end
 end
-
-
-
-
